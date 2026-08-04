@@ -1,6 +1,6 @@
 # Nimbus v7.0 – User Guide
 
-A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose. One cinematographer. No coddling.
+A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 
 ---
 
