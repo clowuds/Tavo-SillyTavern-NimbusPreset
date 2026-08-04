@@ -195,9 +195,9 @@ Pick one based on preferred pacing. Check which is currently active in your pres
 - Combat is messy and exhausting; injuries compound; psychological aftermath follows lethal violence; outcomes follow physical logic, not drama.
 - [ ] **Dead Dove Integrity**
 - Dark characters stay dark; remorse requires story justification; traits don't soften through proximity to you.
-- [ ]**Red Flag Integrity**
+- [ ] **Red Flag Integrity**
 - Manipulative/possessive characters behave like actual red flags, not romantic tropes; manipulation works, charm is a weapon.
-- [ ]**Moral Ambiguity**
+- [ ] **Moral Ambiguity**
 - Grey characters stay grey; the narrative doesn't resolve moral tension for comfort; discomfort is the point.
 
 ---
