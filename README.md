@@ -30,12 +30,16 @@ A storytelling preset that fixes how AI writes by default: passive NPCs, melodra
 
 **Prose**
 - Narration is grounded and physical only; no metaphors, no poetic comparisons, no inferring past events. Dialogue is exempt, characters talk like real people.
+
 **Role Protocol**
 - The AI never acts, speaks, or describes thoughts for `{{user}}`.
+
 **Simulation Physics**
 - Characters can't see behind them or through walls; sound is muffled by doors. One primary action per character per response, then the scene stops and waits for you.
+
 **Story Drivers**
 - NPCs have their own goals, can lie, disagree, ignore, or confront. They only know what they were present to witness. You are fallible.
+
 **OOC**
 - `[OOC: instruction]` overrides anything, use in-chat if needed.
 
@@ -45,10 +49,13 @@ A storytelling preset that fixes how AI writes by default: passive NPCs, melodra
 
 **Story Scenario**
 - Pulls from the character card's scenario field; treated as a starting point, not a fixed law.
+
 **Human's Avatar**
 - Your persona data, kept in mind throughout without being narrated back at you.
+
 **Character's Form**
 - The active character's physical description; can evolve. In group chats, all characters are weighted equally.
+
 **Character's Personality**
 - OFF by default; enable if your card doesn't already handle personality internally.
 
