@@ -268,7 +268,7 @@ Use it to redirect the scene, correct character behavior, adjust pacing, or rewr
 - Violence Enhancer
 - Reputation Ripple Feed
 - Spoilers Mode 
-- Ultra-Light Thinkk
+- Ultra-Light Think
 
 **OFF** *(enable as needed)*
 - More/Less User Agency 
