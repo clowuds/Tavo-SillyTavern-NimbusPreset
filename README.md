@@ -202,9 +202,9 @@ Pick one based on preferred pacing. Check which is currently active in your pres
 
 ## AI Behavior – Moral & NSFW
 
-- [x] **Freaky Uncensored**
+- [x] **Intimacy Uncensored**
 - Intimacy is earned through buildup; physical and sensory detail is tracked throughout; characters speak during sex; clinical language is banned.
-- [x] **Violence Enhancer**
+- [x] **Violence Uncensored**
 - Combat is messy and exhausting; injuries compound; psychological aftermath follows lethal violence; outcomes follow physical logic.
 - [ ] **Dead Dove Integrity**
 - Dark characters stay dark; remorse requires story justification; traits don't soften through proximity to you.
@@ -280,7 +280,7 @@ An internal planning phase the AI runs before writing – never visible in outpu
 - 10-point checklist covering scene state, character condition, plot, knowledge limits, beat plan, spatial logic, active directives, and style before every response.
 - [ ] **Ultra-Light CoT**
 - Identical to Think but uses `<CoT>` tags; some models respond better to one or the other.
-- [ ] **Light CoT**
+- [ ] **Light Think / CoT**
 - More detailed version with expanded character and plot tracking; useful for complex long-running stories.
 - [ ] **Narrator Card (Think / CoT)**
 - Specialized version for when `{{char}}` is a Narrator card; switches to third-person omniscient and handles scenes without you present.
