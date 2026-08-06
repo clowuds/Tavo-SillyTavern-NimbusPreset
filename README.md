@@ -1,6 +1,8 @@
-# Nimbus v7.0 – User Guide
+# Nimbus v7.1 – User Guide
 
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
+
+v7.1 - Small formatting fixes.
 
 ---
 
