@@ -3,6 +3,7 @@
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 
 v7.1 - Small formatting fixes.
+v7.2 - Added **Jailbreak - Nimbus**, small formatting fixes in **Narrator CoT**
 
 ---
 
@@ -210,7 +211,7 @@ Pick one based on preferred pacing. Check which is currently active in your pres
 - Dark characters stay dark; remorse requires story justification; traits don't soften through proximity to you.
 - ⚪️ **Red Flag Integrity**
 - Manipulative/possessive characters behave like actual red flags; manipulation works, charm is a weapon.
-- ⚪️ **Moral Ambiguity**
+- 🔵 **Moral Ambiguity**
 - Grey characters stay grey; the narrative doesn't resolve moral tension for comfort; discomfort is the point.
 
 ---
@@ -257,11 +258,16 @@ Pick one based on preferred pacing. Check which is currently active in your pres
 
 Supplementary tools layered on top of the core system.
 
+- 🔵 **Jailbreak - FF5**
+- More heavy Jailbreak direct from Freaky Frankenstein 5.
+- ⚪️ **Jailbreak - Nimbus**
+- Less intrusive Jailbreak, try one or another if receiving refusals.
+
 - 🔵 **Reputation Ripple Feed**
 - Every 2-3 public scenes, your reputation surfaces through background detail (whispers, glances, wanted posters).
 - 🔵 **Spoilers Mode**
 - Future plot questions answered inside a collapsible spoiler tag.
-- ⚪️ **Hidden Story Ledger**
+- 🔵 **Hidden Story Ledger**
 - Tracks active plot threads and recent resolutions in a hidden HTML block at the end of each response.
 - ⚪️ **Global Position Tracker**
 - Appends time, date, and each character's attire/location/status/condition at the end of every response.
