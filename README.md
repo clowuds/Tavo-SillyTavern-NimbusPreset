@@ -4,10 +4,10 @@ A storytelling preset that fixes how AI writes by default: passive NPCs, melodra
 
 - v7.1 - Small formatting fixes.
 - v7.2
-  - Added **Jailbreak - Nimbus**,
-  - Small formatting fixes in **Narrator CoT**,
-  - **Hidden Ledge** activated by default
-  - Updated **Nimbus Utilities - Regex**
+ - Added **Jailbreak - Nimbus**,
+ - Small formatting fixes in **Narrator CoT**,
+ - **Hidden Ledge** activated by default
+ - Updated **Nimbus Utilities - Regex**
 
 ---
 
