@@ -2,12 +2,15 @@
 
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 
-- v7.1 - Small formatting fixes.
+- v7.1
+  - Small formatting fixes.
 - v7.2
   - Added **Jailbreak - Nimbus**,
   - Small formatting fixes in **Narrator CoT**,
   - **Hidden Ledge** activated by default
   - Updated **Nimbus Utilities - Regex**
+- v7.3
+  - Added **Colored Speech**
 
 ---
 
@@ -273,12 +276,14 @@ Supplementary tools layered on top of the core system.
 - Future plot questions answered inside a collapsible spoiler tag.
 - 🔵 **Hidden Story Ledger**
 - Tracks active plot threads and recent resolutions in a hidden HTML block at the end of each response.
+- ⚪️ **CYOA Choices**
+- Presents branching path options after each response; paths can be wondrous, perilous, tender, wicked, or final.
+- 🔵 **Colored Speech**
+- Gives each Character and NPC their own speech color.
 - ⚪️ **Global Position Tracker**
 - Appends time, date, and each character's attire/location/status/condition at the end of every response.
 - ⚪️ **Weave Reformatter**
 - Reformats a prior response on OOC command without changing the plot or character voice.
-- ⚪️ **CYOA Choices**
-- Presents branching path options after each response; paths can be wondrous, perilous, tender, wicked, or final.
 
 ---
 
