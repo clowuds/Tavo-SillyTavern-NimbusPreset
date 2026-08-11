@@ -3,7 +3,11 @@
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 
 - v7.1 - Small formatting fixes.
-- v7.2 - Added **Jailbreak - Nimbus**, small formatting fixes in **Narrator CoT**
+- v7.2
+  - Added **Jailbreak - Nimbus**,
+  - Small formatting fixes in **Narrator CoT**,
+  - **Hidden Ledge** activated by default
+  - Updated **Nimbus Utilities - Regex**
 
 ---
 
@@ -331,6 +335,7 @@ Use it to redirect the scene, correct character behavior, adjust pacing, or rewr
 - Violence Enhancer
 - Reputation Ripple Feed
 - Spoilers Mode
+- Hidden Ledger
 - Ultra-Light Think
 
 **OFF** *(enable as needed)*
@@ -352,7 +357,6 @@ Use it to redirect the scene, correct character behavior, adjust pacing, or rewr
 - Moral Ambiguity
 - All alternate POVs and tenses
 - All Story Targets
-- Hidden Ledger
 - Global Position Tracker
 - CYOA Choices
 - Weave Reformatter
