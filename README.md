@@ -10,7 +10,8 @@ A storytelling preset that fixes how AI writes by default: passive NPCs, melodra
   - **Hidden Ledge** activated by default
   - Updated **Nimbus Utilities - Regex**
 - v7.3
-  - Added **Colored Speech**
+  - Added Nimbus Utility: **Colored Speech**
+  - Updated **Nimbus Utilities- Regex**
 
 ---
 
