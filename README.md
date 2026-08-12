@@ -1,4 +1,4 @@
-# Nimbus v7.2 – User Guide
+# Nimbus v7.4 – User Guide
 
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 
@@ -12,6 +12,11 @@ A storytelling preset that fixes how AI writes by default: passive NPCs, melodra
 - v7.3
   - Added Nimbus Utility: **Colored Speech**
   - Updated **Nimbus Utilities- Regex**
+- v7.4
+  - Added new **Global Position Tracker** mode: LIGHT
+    - It won't include **Time**, **Date**, **Character Atirre** or **Description**
+    - Use LIGHT if you have **SC - Scenekeeper** Loorebook 
+
 
 ---
 
