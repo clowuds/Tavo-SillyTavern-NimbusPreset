@@ -15,7 +15,8 @@ A storytelling preset that fixes how AI writes by default: passive NPCs, melodra
 - v7.4
   - Added new **Global Position Tracker** mode: LIGHT
     - It won't include **Time**, **Date**, **Character Atirre** or **Description**
-    - Use LIGHT if you have **SC - Scenekeeper** Loorebook 
+    - Use LIGHT if you have **SC - Scenekeeper** Loorebook
+    - [Scenekeeper](https://discord.com/channels/1356606095207960616/1528781017903661126) - Tavo plugin, Discord download 
 
 
 ---
