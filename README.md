@@ -2,6 +2,8 @@
 
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 
+Support page: https://ko-fi.com/clowuds
+
 - v7.1
   - Small formatting fixes.
 - v7.2
