@@ -2,8 +2,6 @@
 
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 
-Support page: https://ko-fi.com/clowuds
-
 - v7.1
   - Small formatting fixes.
 - v7.2
@@ -20,7 +18,17 @@ Support page: https://ko-fi.com/clowuds
     - Use LIGHT if you have **SC - Scenekeeper** Loorebook
     - [Scenekeeper](https://discord.com/channels/1356606095207960616/1528781017903661126) - Tavo plugin, Discord download 
 
+---
+**Support & Contact**:
+- Kofi: https://ko-fi.com/clowuds
+- Discord: `@clowuds.`
 
+**Credits:**
+- Based on **Lucid Loom 3**
+- Main Prompt based on **Freaky Frankenstein**
+- Jailbreak by **Freaky Frankenstein**
+
+Made by Clowuds
 ---
 
 ## Table of Contents
@@ -376,12 +384,3 @@ Use it to redirect the scene, correct character behavior, adjust pacing, or rewr
 - Weave Reformatter
 - Narrator Cards
 - Light CoT
-
----
-
-**Credits:**
-- Based on **Lucid Loom 3**
-- Main Prompt based on **Freaky Frankenstein**
-- Jailbreak by **Freaky Frankenstein**
-
-Made by Clowuds
