@@ -30,7 +30,7 @@ A storytelling preset that fixes how AI writes by default: passive NPCs, melodra
 - Main Prompt based on **Freaky Frankenstein**
 - Jailbreak FF5 by **Freaky Frankenstein**
 
-Made by Clowuds
+- Made by Clowuds
 ---
 
 ## Table of Contents
