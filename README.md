@@ -29,8 +29,7 @@ A storytelling preset that fixes how AI writes by default: passive NPCs, melodra
 - Based on **Lucid Loom 3**
 - Main Prompt based on **Freaky Frankenstein**
 - Jailbreak FF5 by **Freaky Frankenstein**
-
-- Made by Clowuds
+- Made by [Clowuds](https://github.com/clowuds)
 ---
 
 ## Table of Contents
