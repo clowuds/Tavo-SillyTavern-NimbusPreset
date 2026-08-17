@@ -14,8 +14,7 @@ A storytelling preset that fixes how AI writes by default: passive NPCs, melodra
 - Jailbreak FF5 by **Freaky Frankenstein**
 - Made by [Clowuds](https://github.com/clowuds)
 ---
-
-**Changelog:""
+**Changelog:**
 - v7.1
   - Small formatting fixes.
 - v7.2
