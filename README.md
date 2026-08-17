@@ -2,6 +2,19 @@
 
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 
+---
+**Support & Contact**:
+- Kofi: https://ko-fi.com/clowuds
+- Buy me a coffee: https://buymeacoffee.com/clowuds
+- Discord: `@clowuds.`
+
+**Credits:**
+- Based on **Lucid Loom 3**
+- Main Prompt based on **Freaky Frankenstein**
+- Jailbreak FF5 by **Freaky Frankenstein**
+- Made by [Clowuds](https://github.com/clowuds)
+---
+
 - v7.1
   - Small formatting fixes.
 - v7.2
@@ -19,18 +32,6 @@ A storytelling preset that fixes how AI writes by default: passive NPCs, melodra
     - [Scenekeeper](https://discord.com/channels/1356606095207960616/1528781017903661126) - Tavo plugin, Discord download
 - v7.5
   - Small CoT/Think Update
-
----
-**Support & Contact**:
-- Kofi: https://ko-fi.com/clowuds
-- Discord: `@clowuds.`
-
-**Credits:**
-- Based on **Lucid Loom 3**
-- Main Prompt based on **Freaky Frankenstein**
-- Jailbreak FF5 by **Freaky Frankenstein**
-- Made by [Clowuds](https://github.com/clowuds)
----
 
 ## Table of Contents
 
