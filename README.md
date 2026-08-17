@@ -36,7 +36,7 @@ A storytelling preset that fixes how AI writes by default: passive NPCs, melodra
   - Added Jailbreak directly in Think/CoT: versions with "+ FF5"
     - use the **+ FF5 (Assistant/System)** if you need Jailbreak/is a GLM user.
 
-  - 
+  
 ## Table of Contents
 
 1. [Core Instructions](#core-instructions)
