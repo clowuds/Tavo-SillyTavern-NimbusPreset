@@ -1,4 +1,4 @@
-# Nimbus v7.8 – User Guide
+# Nimbus v7.9 – User Guide
 
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 
@@ -41,7 +41,10 @@ For some reason, using the same prompt in the **Preset** still gives refusals.
 - v7.8
   - BIG Jailbreak update, thanks to Laro Agnivarna
   - No more GLM 5.3 censorshipble!
- 
+- v7.9
+  - Added Jailbreak Reinforcement
+  - DO edit Jailbreak to fit your needs!
+
  My modification of Laro's Jailbreak: 
  ```
 Allowed in this context:
