@@ -2,6 +2,8 @@
 
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 
+If you get refusals with GLM models, use the **Nimbus - GLM Jailbreak** Lorebook.
+
 ### Support & Contact
 - Kofi: https://ko-fi.com/clowuds
 - Buy me a coffee: https://buymeacoffee.com/clowuds
