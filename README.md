@@ -1,4 +1,4 @@
-# Nimbus v7.6 – User Guide
+# Nimbus v7.7 – User Guide
 
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 
@@ -31,10 +31,10 @@ A storytelling preset that fixes how AI writes by default: passive NPCs, melodra
     - [Scenekeeper](https://discord.com/channels/1356606095207960616/1528781017903661126) - Tavo plugin, Discord download
 - v7.5
   - Small CoT/Think Update
-- v7.6
-  - Working with GLM, again!
-  - Added Jailbreak directly in Think/CoT: versions with "+ FF5"
-    - use the **+ FF5 (Assistant/System)** if you need Jailbreak/is a GLM user.
+- v7.7
+  - Added Jailbreak directly in Think/CoT
+    - Use + FF5 versions if + Nimbus doesn't works
+  - Added READ ME, please, READ THEM
 
   
 ## Table of Contents
