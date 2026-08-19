@@ -13,7 +13,7 @@ For some reason, using the same prompt in the **Preset** still gives refusals.
 ### Credits
 - Based on **Lucid Loom 3**
 - Main Prompt based on **Freaky Frankenstein**
-- Jailbreak FF5 by **Freaky Frankenstein**
+- Jailbreak update by **Laro Agnivarna**
 - Made by [Clowuds](https://github.com/clowuds)
 
  My modification of Laro's Jailbreak: 
