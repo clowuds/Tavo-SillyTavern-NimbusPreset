@@ -419,4 +419,5 @@ Use it to redirect the scene, correct character behavior, adjust pacing, or rewr
 - v8.0
   - Fixed leaking reasoning
   - Fixed AI not following planning_phase
+  - Updated **Nimbus Utilities - Regex** to include <planning_phase>
 
