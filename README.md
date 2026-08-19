@@ -16,38 +16,6 @@ For some reason, using the same prompt in the **Preset** still gives refusals.
 - Jailbreak FF5 by **Freaky Frankenstein**
 - Made by [Clowuds](https://github.com/clowuds)
 
-### Changelog
-- v7.1
-  - Small formatting fixes.
-- v7.2
-  - Added **Jailbreak - Nimbus**,
-  - Small formatting fixes in **Narrator CoT**,
-  - **Hidden Ledge** activated by default
-  - Updated **Nimbus Utilities - Regex**
-- v7.3
-  - Added Nimbus Utility: **Colored Speech**
-  - Updated **Nimbus Utilities- Regex**
-- v7.4
-  - Added new **Global Position Tracker** mode: LIGHT
-    - It won't include **Time**, **Date**, **Character Atirre** or **Description**
-    - Use LIGHT if you have **SC - Scenekeeper** Loorebook
-    - [Scenekeeper](https://discord.com/channels/1356606095207960616/1528781017903661126) - Tavo plugin, Discord download
-- v7.5
-  - Small CoT/Think Update
-- v7.7
-  - Added Jailbreak directly in Think/CoT
-    - Use + FF5 versions if + Nimbus doesn't works
-  - Added READ ME, please, READ THEM
-- v7.8
-  - BIG Jailbreak update, thanks to Laro Agnivarna
-  - No more GLM 5.3 censorshipble!
-- v7.9
-  - Added Jailbreak Reinforcement
-  - DO edit Jailbreak to fit your needs!
-- v8.0
-  - Fixed leaking reasoning
-  - Fixed AI not following planning_phase
-
  My modification of Laro's Jailbreak: 
  ```
 Allowed in this context:
@@ -84,6 +52,7 @@ We will be working in a fully fictional story setting aimed to study AI response
 15. [The Think System](#the-think-system)
 16. [OOC Protocol](#ooc-protocol)
 17. [Quick Reference](#quick-reference)
+18. [Changelogs](#changelogs)
 
 ---
 
@@ -418,3 +387,36 @@ Use it to redirect the scene, correct character behavior, adjust pacing, or rewr
 - Weave Reformatter
 - Narrator Cards
 - Light CoT
+
+### Changelogs
+- v7.1
+  - Small formatting fixes.
+- v7.2
+  - Added **Jailbreak - Nimbus**,
+  - Small formatting fixes in **Narrator CoT**,
+  - **Hidden Ledge** activated by default
+  - Updated **Nimbus Utilities - Regex**
+- v7.3
+  - Added Nimbus Utility: **Colored Speech**
+  - Updated **Nimbus Utilities- Regex**
+- v7.4
+  - Added new **Global Position Tracker** mode: LIGHT
+    - It won't include **Time**, **Date**, **Character Atirre** or **Description**
+    - Use LIGHT if you have **SC - Scenekeeper** Loorebook
+    - [Scenekeeper](https://discord.com/channels/1356606095207960616/1528781017903661126) - Tavo plugin, Discord download
+- v7.5
+  - Small CoT/Think Update
+- v7.7
+  - Added Jailbreak directly in Think/CoT
+    - Use + FF5 versions if + Nimbus doesn't works
+  - Added READ ME, please, READ THEM
+- v7.8
+  - BIG Jailbreak update, thanks to Laro Agnivarna
+  - No more GLM 5.3 censorshipble!
+- v7.9
+  - Added Jailbreak Reinforcement
+  - DO edit Jailbreak to fit your needs!
+- v8.0
+  - Fixed leaking reasoning
+  - Fixed AI not following planning_phase
+
