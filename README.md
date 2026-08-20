@@ -1,5 +1,11 @@
 # Nimbus v8.1 – User Guide
-**Download the QUIZ - INTERACTIVE GUIDE if you want an easier setup!**
+[
+
+![Open Interactive Guide](https://img.shields.io/badge/☁️_Nimbus_Guide-Open_Guide-7c6af5?style=for-the-badge&logo=github)
+
+](https://clowuds.github.io/Tavo-SillyTavern-NimbusPreset/Nimbus%20-%20QUIZ%20-%20Interactive%20Guide.html)
+
+if you want an easier setup
 
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 
