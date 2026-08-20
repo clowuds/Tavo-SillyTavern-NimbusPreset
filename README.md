@@ -1,7 +1,8 @@
 # Nimbus v8.1 – User Guide
+> [!IMPORTANT]
+> Click ☁️ Nimbus Interactive Guide below!
+> Play the Quiz for easy setup, it will give the best recommended toggles for your RP type.
 [![Open Interactive Guide](https://img.shields.io/badge/☁️_Nimbus_Interactive_Guide-Open_Quiz-7c6af5?style=for-the-badge&logo=github)](https://htmlpreview.github.io/?https://github.com/clowuds/Tavo-SillyTavern-NimbusPreset/blob/main/Nimbus-InteractiveGuide.html)
-
-if you want an easier setup, play the Quiz in the Interactive Guide! It takes less than a minute. 
 
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 
