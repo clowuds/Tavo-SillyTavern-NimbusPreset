@@ -1,4 +1,6 @@
 # Nimbus v8.1 – User Guide
+**Download the INTERACTIVE GUIDE if you want an easier setup!**
+**INTERACTIVE GUIDE have a quiz that will help you**
 
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 
