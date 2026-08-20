@@ -1,4 +1,4 @@
-# Nimbus v8.0 – User Guide
+# Nimbus v8.1 – User Guide
 
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 
@@ -95,16 +95,16 @@ We will be working in a fully fictional story setting aimed to study AI response
 
 Pick one, default Third Person.
 
-- 🔵 **Third Person**
-- Stays on the active character's shoulder; other characters' inner worlds are hidden.
-- ⚪️ **Third-Person Omniscient**
-- God's-eye view; access to all characters' thoughts.
-- ⚪️ **Second Person**
-- Addresses the user directly as "you."
-- ⚪️ **First Person Direct**
-- Narrates strictly through `{{char}}`'s senses as I/Me.
-- ⚪️ **First Person Character**
-- Internal monologue; breaks fourth wall only if the character would.
+- 🔵 **Limited (They/They) — Third Person**
+- Stays on the active character's shoulder; narrator uses she/he/they for everyone. Other characters' inner worlds are hidden.
+- ⚪️ **Omniscient — Third Person**
+- God's-eye view; narrator can enter any character's thoughts and cut to any scene.
+- ⚪️ **Direct (They/You) — Third Person**
+- Hybrid: narrator uses she/he/they for the character, but addresses your avatar as "you." Can narrate your actions and speech, never your thoughts.
+- ⚪️ **Direct (I/You) — First Person**
+- Narrates strictly through {{char}}'s senses as I/Me/My, addressing your avatar as "you" directly.
+- ⚪️ **Limited (I/They) — First Person**
+- Internal monologue; {{char}} narrates as I/Me/My and refers to your avatar as he/she/they. Breaks fourth wall only if the character would.
 
 **Past / Present / Future Tense** Tense modifiers – none active by default, enable one if needed.
 
@@ -420,4 +420,6 @@ Use it to redirect the scene, correct character behavior, adjust pacing, or rewr
   - Fixed leaking reasoning
   - Fixed AI not following planning_phase
   - Updated **Nimbus Utilities - Regex** to include <planning_phase>
+- v8.1
+  - Better POV names (easier to understand)
 
