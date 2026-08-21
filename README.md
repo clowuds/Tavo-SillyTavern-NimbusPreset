@@ -6,7 +6,7 @@
 > [![Open Interactive Guide](https://img.shields.io/badge/☁️_Nimbus_Interactive_Guide-Open_Quiz-7c6af5?style=for-the-badge&logo=github)](https://htmlpreview.github.io/?https://github.com/clowuds/Tavo-SillyTavern-NimbusPreset/blob/main/Nimbus-InteractiveGuide.html)
 
 > [!IMPORTANT]
-> If you use a Narrator Card but DO NOT want it to use **Omniscient - Third Perso**, **DISABLE** or **EDIT** the **Narrator Cot/Think** to fit your preferences.
+> If you use a Narrator Card but DO NOT want it to use **Omniscient - Third Person**, **DISABLE** or **EDIT** the **Narrator Cot/Think** to fit your preferences.
 
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 
