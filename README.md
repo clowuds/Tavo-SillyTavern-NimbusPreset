@@ -1,4 +1,4 @@
-# Nimbus v8.2 – User Guide
+# Nimbus v8.3 – User Guide
 > [!IMPORTANT]
 > Click ☁️ **Nimbus Interactive Guide** below!
 > Play the Quiz for easy setup, it will give the best recommended toggles for your RP type.
@@ -433,4 +433,6 @@ Use it to redirect the scene, correct character behavior, adjust pacing, or rewr
 - v8.2
   - Added **Write as User** edit if needed
   - Reinforcement on POVs
+- v8.3
+  - Small **Narrator CoT/Think** improvements
 
