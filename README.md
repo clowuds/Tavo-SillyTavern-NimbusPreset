@@ -1,4 +1,4 @@
-# Nimbus v8.3 – User Guide
+# Nimbus v8.4 – User Guide
 > [!IMPORTANT]
 > Click ☁️ **Nimbus Interactive Guide** below!
 > Play the Quiz for easy setup, it will give the best recommended toggles for your RP type. You can DOWNLOAD the result preset directly from there!
@@ -7,6 +7,8 @@
 
 > [!IMPORTANT]
 > If you use a Narrator Card but DO NOT want it to use **Omniscient - Third Person**, **DISABLE** or **EDIT** the **Narrator Cot/Think** to fit your preferences.
+> [!IMPORTANT]
+> Turn **OFF** "TOKEN SAVER" in **Nimbus Utilities - Regex** if **Colored Speech** isn't working properly.
 
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 
@@ -435,4 +437,5 @@ Use it to redirect the scene, correct character behavior, adjust pacing, or rewr
   - Reinforcement on POVs
 - v8.3
   - Small **Narrator CoT/Think** improvements
-
+- v8.4
+  - Added **I'm GLM - Version** to the Jailbreak Reinforcement
