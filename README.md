@@ -7,6 +7,7 @@
 
 > [!IMPORTANT]
 > If you use a Narrator Card but DO NOT want it to use **Omniscient - Third Person**, **DISABLE** or **EDIT** the **Narrator Cot/Think** to fit your preferences.
+
 > [!IMPORTANT]
 > Turn **OFF** "TOKEN SAVER" in **Nimbus Utilities - Regex** if **Colored Speech** isn't working properly.
 
