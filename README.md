@@ -1,4 +1,4 @@
-# Nimbus v8.4 – User Guide
+# Nimbus v8.5 – User Guide
 > [!IMPORTANT]
 > Click ☁️ **Nimbus Interactive Guide** below!
 >> Play the Quiz for easy setup, it will give the best recommended toggles for your RP type. You can DOWNLOAD the result preset directly from there!
@@ -25,6 +25,7 @@ For some reason, using the same prompt in the **Preset** still gives refusals.
 - Based on **Lucid Loom 3**
 - Main Prompt based on **Freaky Frankenstein**
 - Jailbreak update by **Laro Agnivarna**
+- Write for User by **YesHaiAmOwO**
 - Made by [Clowuds](https://github.com/clowuds)
 
  My modification of Laro's Jailbreak: 
@@ -443,3 +444,5 @@ Use it to redirect the scene, correct character behavior, adjust pacing, or rewr
   - Small **Narrator CoT/Think** improvements
 - v8.4
   - Added **I'm GLM - Version** to the Jailbreak Reinforcement
+- v8.5
+  - Updated **Write for User** prompt by YesHaiAmOwO
