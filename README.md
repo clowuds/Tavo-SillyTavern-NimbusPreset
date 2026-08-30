@@ -1,4 +1,4 @@
-# Nimbus v8.5 – User Guide
+# Nimbus v8.6 – User Guide
 > [!IMPORTANT]
 > Click ☁️ **Nimbus Interactive Guide** below!
 >> Play the Quiz for easy setup, it will give the best recommended toggles for your RP type. You can DOWNLOAD the result preset directly from there!
@@ -446,3 +446,5 @@ Use it to redirect the scene, correct character behavior, adjust pacing, or rewr
   - Added **I'm GLM - Version** to the Jailbreak Reinforcement
 - v8.5
   - Updated **Write for User** prompt by YesHaiAmOwO
+- v8.6
+  - Small update on think/cot
