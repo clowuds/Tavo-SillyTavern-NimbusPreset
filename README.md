@@ -446,5 +446,5 @@ Use it to redirect the scene, correct character behavior, adjust pacing, or rewr
   - Added **I'm GLM - Version** to the Jailbreak Reinforcement
 - v8.5
   - Updated **Write for User** prompt by YesHaiAmOwO
-- v8.6
+- v8.6/v8.7
   - Small update on think/cot
