@@ -1,4 +1,4 @@
-# Nimbus v8.6 – User Guide
+# Nimbus v8.7 – User Guide
 > [!IMPORTANT]
 > Click ☁️ **Nimbus Interactive Guide** below!
 >> Play the Quiz for easy setup, it will give the best recommended toggles for your RP type. You can DOWNLOAD the result preset directly from there!
