@@ -7,7 +7,7 @@
 >> Added Random Events Utility (based on Freaky Frankenstein World Sim)
 
 > [!IMPORTANT]
-> ☁️ **Nimbus Interactive Guide**
+> EASY SETUP ☁️ **NIMBUS INTERACTIVE GUIDE**
 >> Play the Quiz for easy setup, it will give the best recommended toggles for your RP type. You can DOWNLOAD the result preset directly from there!
 >
 > [![Open Interactive Guide](https://img.shields.io/badge/☁️_Nimbus_Interactive_Guide-Open_Quiz-7c6af5?style=for-the-badge&logo=github)](https://htmlpreview.github.io/?https://github.com/clowuds/Tavo-SillyTavern-NimbusPreset/blob/main/Nimbus%20-%20Interactive%20Guide.html)
