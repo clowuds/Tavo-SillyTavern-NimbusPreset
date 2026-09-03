@@ -1,8 +1,10 @@
 # Nimbus v9.0 – User Guide
 > v9.0
-> Improved caching
-> Improved response when using OpenRoute
-> Added Random Events Utility (based on Freaky Frankenstein World Sim)
+>> Improved caching
+
+>> Improved response when using OpenRoute
+
+>> Added Random Events Utility (based on Freaky Frankenstein World Sim)
 
 > [!IMPORTANT]
 > Click ☁️ **Nimbus Interactive Guide** below!
