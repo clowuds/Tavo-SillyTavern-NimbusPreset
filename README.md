@@ -1,4 +1,5 @@
 # Nimbus v9.0 – User Guide
+A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 > **CHANGELOG v9.0:**
 >> Improved caching
 >>
@@ -17,11 +18,6 @@
 >
 > **COLORED SPEECH**
 >> Turn **OFF** "TOKEN SAVER" in **Nimbus Utilities - Regex** if **Colored Speech** isn't working properly.
-
-A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
-
-If you get refusals with GLM models, use the **Nimbus - GLM Jailbreak** Lorebook.
-For some reason, using the same prompt in the **Preset** still gives refusals.
 
 > [!IMPORTANT]
 > ### Support & Contact
