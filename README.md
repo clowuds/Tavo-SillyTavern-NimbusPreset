@@ -1,5 +1,5 @@
 # Nimbus v9.0 – User Guide
-> v9.0
+> Changelog v9.0:
 >> Improved caching
 >>
 >> Improved response when using OpenRoute
