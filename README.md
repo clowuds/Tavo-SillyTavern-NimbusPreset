@@ -24,14 +24,14 @@ If you get refusals with GLM models, use the **Nimbus - GLM Jailbreak** Lorebook
 For some reason, using the same prompt in the **Preset** still gives refusals.
 
 > [!IMPORTANT]
-> # Support & Contact
+> ### Support & Contact
 >> Kofi: https://ko-fi.com/clowuds
 >> 
 >> Buy me a coffee: https://buymeacoffee.com/clowuds
 >> 
 >> Discord: `@clowuds.`
-
-> # Credits
+>
+> ### Credits
 >> Based on **Lucid Loom 3**
 >> 
 >> Main Prompt based on **Freaky Frankenstein**
