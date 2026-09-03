@@ -18,16 +18,15 @@ A storytelling preset that fixes how AI writes by default: passive NPCs, melodra
 >
 > **COLORED SPEECH**
 >> Turn **OFF** "TOKEN SAVER" in **Nimbus Utilities - Regex** if **Colored Speech** isn't working properly.
-
-> [!IMPORTANT]
-> ### Support & Contact
+>
+> **SUPPORT & CONTACT**
 >> Kofi: https://ko-fi.com/clowuds
 >> 
 >> Buy me a coffee: https://buymeacoffee.com/clowuds
 >> 
 >> Discord: `@clowuds.`
 >
-> ### Credits
+> **CREDITS**
 >> Based on **Lucid Loom 3**
 >> 
 >> Main Prompt based on **Freaky Frankenstein**
