@@ -1,17 +1,17 @@
 # Nimbus v9.0 – User Guide
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
-> **CHANGELOG v9.0:**
->> Improved caching
+> **CHANGELOG v10:**
+>> Improved format
 >>
->> Improved response when using OpenRoute
+>> Added **Char is the MC**
 >>
->> Added Random Events Utility (based on Freaky Frankenstein World Sim)
+>> Added **Anti-Impersonation**
 >
 > **COLORED SPEECH**
 >> Turn **OFF** "TOKEN SAVER" in **Nimbus Utilities - Regex** if **Colored Speech** isn't working properly.
 
 > [!IMPORTANT]
-> **EASY SETUP - NIMBUS INTERACTIVE GUIDE**
+> **EASY SETUP - NIMBUS INTERACTIVE GUIDE** (is v9.0)
 >> Play the Quiz for easy setup, it will give the best recommended toggles for your RP type. You can DOWNLOAD the result preset directly from there!
 >
 > [![Open Interactive Guide](https://img.shields.io/badge/☁️_Nimbus_Interactive_Guide-Open_Quiz-7c6af5?style=for-the-badge&logo=github)](https://htmlpreview.github.io/?https://github.com/clowuds/Tavo-SillyTavern-NimbusPreset/blob/main/Nimbus%20-%20Interactive%20Guide.html)
