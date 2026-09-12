@@ -1,4 +1,4 @@
-# Nimbus v9.0 – User Guide
+# Nimbus v10 – User Guide
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 > **CHANGELOG v10:**
 >> Improved format
