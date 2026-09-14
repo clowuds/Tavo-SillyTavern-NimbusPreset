@@ -1,11 +1,11 @@
-# Nimbus v10 – User Guide
+# Nimbus v10.1 – User Guide
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 > **CHANGELOG v10:**
->> Improved format
+>> Improved **Narrative Styles**
 >>
->> Added **Char is the MC**
+>> Added **Erotic Fan Fiction** Narrative Style 
 >>
->> Added **Anti-Impersonation**
+>> Added **Slow Burn** Narrative Style 
 >
 > **COLORED SPEECH**
 >> Turn **OFF** "TOKEN SAVER" in **Nimbus Utilities - Regex** if **Colored Speech** isn't working properly.
@@ -454,3 +454,7 @@ Use it to redirect the scene, correct character behavior, adjust pacing, or rewr
   - Updated **Write for User** prompt by YesHaiAmOwO
 - v8.6/v8.7
   - Small update on think/cot
+- v10
+  - Improved format
+  - Added **Char is the MC**
+  - Added **Anti-Impersonation**
