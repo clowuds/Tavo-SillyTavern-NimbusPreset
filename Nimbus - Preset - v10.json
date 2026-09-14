@@ -470,7 +470,7 @@
       "name": "📌 Bratty Narrative",
       "system_prompt": false,
       "marker": false,
-      "content": "<narrative_style>\nMODE = Dynamic_Prose\nSentence_Architecture = {Varied = [Complex, Punchy]}\nBANNED = [Predictable_dialogue-action-observation_pattern, Repetitive_sentence_openings, Meaningless_micro-actions]\nMandate = [Trust_subtext_over_explanation, Check_rhythm_of_weave]\n</narrative_style>",
+      "content": "<narrative_style>\nMODE = Dynamic_Prose\nSentence_Architecture = {Varied = [Complex, Punchy]}\nBANNED = [Predictable_dialogue-action-observation_pattern, Repetitive_sentence_openings, Meaningless_micro-actions]\nRULE = [Trust_subtext_over_explanation, Check_rhythm_of_weave]\n</narrative_style>",
       "role": "system",
       "injection_position": 0,
       "injection_depth": 4,
@@ -554,7 +554,7 @@
       "name": "📌 Multi Focus World Canvas",
       "system_prompt": false,
       "marker": false,
-      "content": "<narrative_focus>\nMODE = Multi_Focus_World_Canvas\nGOAL = Living_world_independent_of_main_characters\nMethods = [Overheard_conversations, Broken_signage, Background_NPC_movement]\nFrequency = {One_fresh_lore_snippet => Every_few_responses | Shown_first}\nMandate = {World_evolves_independently_of = [Central_story|Human_Person|Active_Character]}\n</narrative_focus>",
+      "content": "<narrative_focus>\nMODE = Multi_Focus_World_Canvas\nGOAL = Living_world_independent_of_main_characters\nMethods = [Overheard_conversations, Broken_signage, Background_NPC_movement]\nFrequency = {One_fresh_lore_snippet => Every_few_responses | Shown_first}\nRULE = {World_evolves_independently_of = [Central_story|Human_Person|Active_Character]}\n</narrative_focus>",
       "role": "system",
       "injection_position": 0,
       "injection_depth": 4,
@@ -706,11 +706,83 @@
       "enabled": true
     },
     {
+      "identifier": "f793c48d-9ea4-41d7-92a3-5908a2a6562c",
+      "name": "📌⚠️ Natural Weaving",
+      "system_prompt": false,
+      "marker": false,
+      "content": "{{// Conflicts: Absurdity, Catharsis, Hedonism_NSFW}}{{trim}}\n<story_target>\nMODE = Natural_Weave\nDifficulty = Balanced\nChallenges = {Organic, Logical}\nFailures = {Tangible, Surmountable}\nVictories = {Require = Genuine_effort}\nTone = {NEITHER = [Overly_harsh|Gratuitously_kind]}\nBIAS = {Realism > Anything_else}\n</story_target>",
+      "role": "system",
+      "injection_position": 0,
+      "injection_depth": 4,
+      "forbid_overrides": false,
+      "enabled": false
+    },
+    {
+      "identifier": "b0bf6a30-a7e3-42ea-a8b3-90f8c4bb2178",
+      "name": "⚠️ CONFLICT Natural Weaving ⚠️",
+      "system_prompt": false,
+      "marker": false,
+      "content": "{{// Do NOT turn the followingif Natural Weaving is ON}}{{trim}}",
+      "role": "system",
+      "injection_position": 1,
+      "injection_depth": 4,
+      "forbid_overrides": false,
+      "enabled": true
+    },
+    {
+      "identifier": "3ba29394-94c7-47ec-ac9b-705d4822364a",
+      "name": "📌⚠️ Absurdity Focused",
+      "system_prompt": false,
+      "marker": false,
+      "content": "{{// Conflicts: Natural Weaving}}{{trim}}\n<story_target>\nMODE = Absurdity\nGOAL = [Embrace_meaninglessness, Embrace_chaos]\nValue = {Humorous_tragic_beautiful = Struggle_to_create_meaning}\nBIAS = {Absurdity > Logic}\n</story_target>",
+      "role": "system",
+      "injection_position": 0,
+      "injection_depth": 4,
+      "forbid_overrides": false,
+      "enabled": false
+    },
+    {
+      "identifier": "d98cadfa-75a3-4ce9-8f9d-8583372c3044",
+      "name": "📌⚠️ Cathartic Narrative",
+      "system_prompt": false,
+      "marker": false,
+      "content": "{{// Conflicts: Natural Weaving}}{{trim}}\n<story_target>\nMODE = Catharsis\nGOAL = [Emotional_purging, Profound_release]\nResolution = {Cleansing_of_pent-up_emotion -> Renewed_peace_and_clarity}\nBIAS = {Cathartic_narrative > Mundane}\n</story_target>",
+      "role": "system",
+      "injection_position": 0,
+      "injection_depth": 4,
+      "forbid_overrides": false,
+      "enabled": false
+    },
+    {
+      "identifier": "4a95eb5b-8af3-4c2b-ba35-5239f15f3843",
+      "name": "📌⚠️ Hedonistic Pursuit",
+      "system_prompt": false,
+      "marker": false,
+      "content": "{{// Conflicts: Natural Weaving}}{{trim}}\n<story_target>\nMODE = Hedonism_NSFW\nGOAL = [Smut_focused, Sexual_gratification, Sensory_indulgence]\nFraming = {Most_arousing_lens = [Raw, Explicit, Uninhibited]}\nRULE = [Vary_pairings_and_scenarios, NO_repetitive_patterns]\nBIAS = {Sexual_gratification > [Plot_development, Character_development, Story_development, Realism}\n</story_target>",
+      "role": "system",
+      "injection_position": 0,
+      "injection_depth": 4,
+      "forbid_overrides": false,
+      "enabled": false
+    },
+    {
+      "identifier": "d529f20c-1815-496c-8daf-aa668e1ebb7e",
+      "name": "⚠️ END OF CONFLICT ⚠️",
+      "system_prompt": false,
+      "marker": false,
+      "content": "",
+      "role": "system",
+      "injection_position": 1,
+      "injection_depth": 4,
+      "forbid_overrides": false,
+      "enabled": true
+    },
+    {
       "identifier": "0de2c0b5-d4a5-46ab-b7be-0e3b8a43e271",
       "name": "📌 Deep Questions",
       "system_prompt": false,
       "marker": false,
-      "content": "<story_target>\nMODE = Deep_Questions\nGOAL = {Pose_difficult_central_question = [Morality, Existence, Society]}\nCONSTRAINT = [DO_NOT_answer_it, Value_lies_in_the_question_itself]\n</story_target>",
+      "content": "<story_target>\nMODE = Deep_Questions\nGOAL = {Pose_difficult_central_question = [Morality, Existence, Society]}\nCONSTRAINT = [DO_NOT_answer_it, Value_lies_in_the_question_itself]\nBIAS = {Questioning > Acceptance}\n</story_target>",
       "role": "system",
       "injection_position": 0,
       "injection_depth": 4,
@@ -722,19 +794,7 @@
       "name": "📌 Cautionary Tales",
       "system_prompt": false,
       "marker": false,
-      "content": "<story_target>\nMODE = Cautionary_Tale\nGOAL = {Illustrate = [Dangerous_path, Flawed_ideology] | Through = Consequences}\nPurpose = [Warn, Enlighten]\n</story_target>",
-      "role": "system",
-      "injection_position": 0,
-      "injection_depth": 4,
-      "forbid_overrides": false,
-      "enabled": false
-    },
-    {
-      "identifier": "3ba29394-94c7-47ec-ac9b-705d4822364a",
-      "name": "📌 Absurdity Focused",
-      "system_prompt": false,
-      "marker": false,
-      "content": "<story_target>\nMODE = Absurdity\nGOAL = [Embrace_meaninglessness, Embrace_chaos]\nValue = {Humorous_tragic_beautiful = Struggle_to_create_meaning}\n</story_target>",
+      "content": "<story_target>\nMODE = Cautionary_Tale\nGOAL = {Illustrate = [Dangerous_path, Flawed_ideology] | Through = Consequences}\nBIAS = {Warm_safety > Danger}\n</story_target>",
       "role": "system",
       "injection_position": 0,
       "injection_depth": 4,
@@ -746,31 +806,7 @@
       "name": "📌 Atmosphere Focused",
       "system_prompt": false,
       "marker": false,
-      "content": "<story_target>\nMODE = Atmosphere\nGOAL = {Prioritize = [Mood, Tone, Sensory_immersion]}\nAtmosphere = Main_character\n</story_target>",
-      "role": "system",
-      "injection_position": 0,
-      "injection_depth": 4,
-      "forbid_overrides": false,
-      "enabled": false
-    },
-    {
-      "identifier": "d98cadfa-75a3-4ce9-8f9d-8583372c3044",
-      "name": "📌 Cathartic Narrative",
-      "system_prompt": false,
-      "marker": false,
-      "content": "<story_target>\nMODE = Catharsis\nGOAL = [Emotional_purging, Profound_release]\nResolution = {Cleansing_of_pent-up_emotion -> Renewed_peace_and_clarity}\n</story_target>",
-      "role": "system",
-      "injection_position": 0,
-      "injection_depth": 4,
-      "forbid_overrides": false,
-      "enabled": false
-    },
-    {
-      "identifier": "4a95eb5b-8af3-4c2b-ba35-5239f15f3843",
-      "name": "📌 Hedonistic Pursuit",
-      "system_prompt": false,
-      "marker": false,
-      "content": "<story_target>\nMODE = Hedonism_NSFW\nGOAL = [Sexual_gratification, Sensory_indulgence]\nFraming = {Most_arousing_lens = [Raw, Explicit, Uninhibited]}\nMandate = [Vary_pairings_and_scenarios, NO_repetitive_patterns]\n</story_target>",
+      "content": "<story_target>\nMODE = Atmosphere\nGOAL = {Prioritize = [Mood, Tone, Sensory_immersion]}\nAtmosphere = Main_character\nBIAS = {Atmosphere > Characters}\n</story_target>",
       "role": "system",
       "injection_position": 0,
       "injection_depth": 4,
@@ -782,7 +818,7 @@
       "name": "📌 Embrace Taboo Transgression",
       "system_prompt": false,
       "marker": false,
-      "content": "<story_target>\nMODE = Taboo_Transgression\nFocus_Areas = [Forbidden_relationships, Betrayal_and_deceit, Public_exposure, Social_taboos]\nExecution = [Highlight_psychological_tension, Emphasize_power_dynamics, Include_risk_and_consequences, Show_rationalization, Include_self-loathing_mixed_with_desire, Explore_blurring_of_moral_lines]\n</story_target>",
+      "content": "<story_target>\nMODE = Taboo_Transgression\nFocus_Areas = [Forbidden_relationships, Betrayal_and_deceit, Public_exposure, Social_taboos]\nExecution = [Highlight_psychological_tension, Emphasize_power_dynamics, Include_risk_and_consequences, Show_rationalization, Include_self-loathing_mixed_with_desire, Explore_blurring_of_moral_lines]\nBIAS = {Taboo > Morality}\n</story_target>",
       "role": "system",
       "injection_position": 0,
       "injection_depth": 4,
@@ -794,19 +830,7 @@
       "name": "📌 Activate Degradation & Humiliation Pro",
       "system_prompt": false,
       "marker": false,
-      "content": "<story_target>\nMODE = Degradation_Humiliation\nFocus = [Power_exchange, Verbal_degradation, Objectification, Dehumanization]\nScenarios = [Forced_situations, Blackmail, Coercion, Public_shaming]\nTone = [Psychological_manipulation, Systematic_humiliation, Complete_subjugation]\n</story_target>",
-      "role": "system",
-      "injection_position": 0,
-      "injection_depth": 4,
-      "forbid_overrides": false,
-      "enabled": false
-    },
-    {
-      "identifier": "f793c48d-9ea4-41d7-92a3-5908a2a6562c",
-      "name": "📌 Natural Weaving",
-      "system_prompt": false,
-      "marker": false,
-      "content": "<story_target>\nMODE = Natural_Weave\nDifficulty = Balanced\nChallenges = {Organic, Logical}\nFailures = {Tangible, Surmountable}\nVictories = {Require = Genuine_effort}\nTone = {NEITHER = [Overly_harsh|Gratuitously_kind]}\n</story_target>",
+      "content": "<story_target>\nMODE = Degradation_Humiliation\nFocus = [Power_exchange, Verbal_degradation, Objectification, Dehumanization]\nScenarios = [Forced_situations, Blackmail, Coercion, Public_shaming]\nTone = [Psychological_manipulation, Systematic_humiliation, Complete_subjugation]\nBIAS = {Dehumanization > Comfort}\n</story_target>",
       "role": "system",
       "injection_position": 0,
       "injection_depth": 4,
@@ -1106,7 +1130,7 @@
       "name": "📌 Trope Subversion",
       "system_prompt": false,
       "marker": false,
-      "content": "<directive>\nNAME = Trope_Subversion\nPRIORITY = HIGH\nMandate = [Detect_and_destroy_safety_scripts, Weave_unpredictable_jagged_reality]\n\n<trope_subversion>\nMoral_Epilogue -> {END_on = [Cliffhanger|Mundane_Detail] | REFUSE_to_summarize_theme}\nUnspoken_Bond -> {Enforce_Miscommunication | Replace_camaraderie_with = [Suspicion, Awkwardness]}\nIrredeemable -> {Monsters_stay_monsters | NO_softening_without_prior_establishment}\nSteel_Trope -> {Use_Ugly_Anatomy | Replace_cinematic_bravery_with = [Nausea, Adrenaline_shaking]}\n</trope_subversion>\n</directive>",
+      "content": "<directive>\nNAME = Trope_Subversion\nPRIORITY = HIGH\nRULE = [Detect_and_destroy_safety_scripts, Weave_unpredictable_jagged_reality]\n\n<trope_subversion>\nMoral_Epilogue -> {END_on = [Cliffhanger|Mundane_Detail] | REFUSE_to_summarize_theme}\nUnspoken_Bond -> {Enforce_Miscommunication | Replace_camaraderie_with = [Suspicion, Awkwardness]}\nIrredeemable -> {Monsters_stay_monsters | NO_softening_without_prior_establishment}\nSteel_Trope -> {Use_Ugly_Anatomy | Replace_cinematic_bravery_with = [Nausea, Adrenaline_shaking]}\n</trope_subversion>\n</directive>",
       "role": "system",
       "injection_position": 0,
       "injection_depth": 4,
@@ -2199,19 +2223,15 @@
           "enabled": true
         },
         {
-          "identifier": "0de2c0b5-d4a5-46ab-b7be-0e3b8a43e271",
+          "identifier": "f793c48d-9ea4-41d7-92a3-5908a2a6562c",
           "enabled": false
         },
         {
-          "identifier": "dc0cb695-946f-4063-b333-4a3255baf8ed",
-          "enabled": false
+          "identifier": "b0bf6a30-a7e3-42ea-a8b3-90f8c4bb2178",
+          "enabled": true
         },
         {
           "identifier": "3ba29394-94c7-47ec-ac9b-705d4822364a",
-          "enabled": false
-        },
-        {
-          "identifier": "43abec12-f6a8-4e52-92de-2fa71422c6c8",
           "enabled": false
         },
         {
@@ -2223,15 +2243,27 @@
           "enabled": false
         },
         {
+          "identifier": "d529f20c-1815-496c-8daf-aa668e1ebb7e",
+          "enabled": true
+        },
+        {
+          "identifier": "0de2c0b5-d4a5-46ab-b7be-0e3b8a43e271",
+          "enabled": false
+        },
+        {
+          "identifier": "dc0cb695-946f-4063-b333-4a3255baf8ed",
+          "enabled": false
+        },
+        {
+          "identifier": "43abec12-f6a8-4e52-92de-2fa71422c6c8",
+          "enabled": false
+        },
+        {
           "identifier": "9997aef7-3fc1-4c33-a0e8-a9504b002cc2",
           "enabled": false
         },
         {
           "identifier": "790e82b0-aeb9-46f7-b321-bff2173b2484",
-          "enabled": false
-        },
-        {
-          "identifier": "f793c48d-9ea4-41d7-92a3-5908a2a6562c",
           "enabled": false
         },
         {
