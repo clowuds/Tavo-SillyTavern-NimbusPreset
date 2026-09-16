@@ -1,6 +1,6 @@
 # Nimbus v10.2 – User Guide
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
-> **CHANGELOG v10:**
+> **CHANGELOG v10.2:**
 >> Added **Last** and **First** modes to Reasonings. This change were the Jailbreak is positioned. 
 >
 > **COLORED SPEECH**
