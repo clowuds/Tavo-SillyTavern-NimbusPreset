@@ -1,11 +1,7 @@
-# Nimbus v10.1 – User Guide
+# Nimbus v10.2 – User Guide
 A storytelling preset that fixes how AI writes by default: passive NPCs, melodrama, sanitized consequences, purple prose.
 > **CHANGELOG v10:**
->> Improved **Narrative Styles**
->>
->> Added **Erotic Fan Fiction** Narrative Style 
->>
->> Added **Slow Burn** Narrative Style 
+>> Added **Last** and **First** modes to Reasonings. This change were the Jailbreak is positioned. 
 >
 > **COLORED SPEECH**
 >> Turn **OFF** "TOKEN SAVER" in **Nimbus Utilities - Regex** if **Colored Speech** isn't working properly.
